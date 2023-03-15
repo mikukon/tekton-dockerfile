@@ -1,2 +1,2 @@
-FROM ghcr.io/dexidp/dex:v2.35.3-distroless
+FROM ghcr.io/dexidp/dex:v2.35.3
 MAINTAINER Q
